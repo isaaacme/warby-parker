@@ -1,7 +1,7 @@
 <mjml>
   <mj-head>
     <mj-attributes>
-      <mj-button background-color='#4dbeff' font-size='21px' height='40px' width='200px' padding='20px' />
+      <mj-button background-color='#4dbeff' font-size='21px' height='40px' width='200px' padding-top='20px' />
       <mj-section padding='0px' />
       <mj-column direction='rtl' />
       <mj-text font-size='18px' color='#353535' align='right' />
@@ -11,7 +11,7 @@
       <mj-class name="second-title" font-size='32px' font-weight='bold' align="center" />
       <mj-class name="content" font-size='14px' />
       <mj-class name="underline" text-decoration='underline' />
-      <mj-class name="terms" font-size='12px' />
+      <mj-class name="terms" font-size='12px'  line-height='10px'/>
     </mj-attributes>
   </mj-head>
   <mj-body>
